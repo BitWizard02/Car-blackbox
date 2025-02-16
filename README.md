@@ -5,7 +5,7 @@ Key Features:
     Real-Time Clock (RTC): Provides accurate timestamps for events.
     Data Storage: Maintains logs that can be reviewed later.
     UART Communication: Allows downloading of logs to a computer for analysis.
-    User Interface: Enables viewing logs, clearing data, setting time, and downloading logs.
+    User Interface: Enables viewing logs, clearing data, setting time, and downloading logs. 
 Purpose and Importance:
     Accident Investigation: Helps in reconstructing the sequence of events leading up to a crash.
     Driver Monitoring: Enables the assessment of driving habits and compliance with safety norms.
